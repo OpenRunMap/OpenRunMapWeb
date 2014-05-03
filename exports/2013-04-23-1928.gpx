@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="RunKeeper - http://www.runkeeper.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<trk>
+  <name><![CDATA[Running 23/4/13 7:28 pm]]></name>
+  <time>2013-04-23T19:28:00Z</time>
+<trkseg>
+<trkpt lat="57.850338000" lon="12.457165000"><ele>65.4</ele><time>2013-04-23T19:13:09Z</time></trkpt>
+<trkpt lat="57.850338000" lon="12.457165000"><ele>64.8</ele><time>2013-04-23T19:13:09Z</time></trkpt>
+<trkseg>
+<trkpt lat="57.850612000" lon="12.456779000"><ele>64.8</ele><time>2013-04-23T19:28:00Z</time></trkpt>
+<trkpt lat="57.850170000" lon="12.452745000"><ele>64.9</ele><time>2013-04-23T19:31:17Z</time></trkpt>
+<trkpt lat="57.851712000" lon="12.455964000"><ele>64.5</ele><time>2013-04-23T19:38:50Z</time></trkpt>
+<trkpt lat="57.850741000" lon="12.454161000"><ele>64.2</ele><time>2013-04-23T19:40:32Z</time></trkpt>
+<trkpt lat="57.849874000" lon="12.453153000"><ele>63.5</ele><time>2013-04-23T19:45:07Z</time></trkpt>
+<trkpt lat="57.841183000" lon="12.455792000"><ele>63.1</ele><time>2013-04-23T19:50:21Z</time></trkpt>
+<trkpt lat="57.840829000" lon="12.456886000"><ele>62.6</ele><time>2013-04-23T19:51:38Z</time></trkpt>
+<trkpt lat="57.849520000" lon="12.452423000"><ele>62.8</ele><time>2013-04-23T19:52:39Z</time></trkpt>
+<trkpt lat="57.846391000" lon="12.455706000"><ele>62.8</ele><time>2013-04-23T19:53:10Z</time></trkpt>
+<trkpt lat="57.851575000" lon="12.455449000"><ele>63.0</ele><time>2013-04-23T19:55:08Z</time></trkpt>
+<trkpt lat="57.841514000" lon="12.454311000"><ele>63.2</ele><time>2013-04-23T19:55:59Z</time></trkpt>
+<trkpt lat="57.842371000" lon="12.452509000"><ele>62.9</ele><time>2013-04-23T19:56:14Z</time></trkpt>
+<trkpt lat="57.850570000" lon="12.456715000"><ele>62.4</ele><time>2013-04-23T19:57:59Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
